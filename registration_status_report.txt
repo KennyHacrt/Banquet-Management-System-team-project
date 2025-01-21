@@ -1,0 +1,28 @@
+--------------------------------------------------
+                 Registration Status Report
+--------------------------------------------------
+BIN: 1
+Banquet Name: Gala Night 2023
+Quota: 100
+Registered: 2 (2.00%) - Status: Open
+--------------------------------------------------
+BIN: 4
+Banquet Name: Spring Gala
+Quota: 100
+Registered: 0 (0.00%) - Status: Open
+--------------------------------------------------
+BIN: 2
+Banquet Name: Annual Dinner
+Quota: 150
+Registered: 2 (1.33%) - Status: Open
+--------------------------------------------------
+BIN: 3
+Banquet Name: Spring Fest
+Quota: 200
+Registered: 2 (1.00%) - Status: Open
+--------------------------------------------------
+
+Recommendations:
+- Monitor banquets approaching full capacity and consider increasing quotas if feasible.
+- For banquets with low registration, implement promotional activities.
+--------------------------------------------------

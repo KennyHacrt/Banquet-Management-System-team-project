@@ -1,0 +1,38 @@
+--------------------------------------------------
+                 Attendee Behavior Report
+--------------------------------------------------
+Attendee ID: 1
+Name: Charlie Brown
+Total Registrations: 2
+Banquets Attended: Gala Night 2023, Spring Fest
+Meals Chosen: Chicken Tacos, Grilled Salmon
+--------------------------------------------------
+Attendee ID: 2
+Name: Diana Prince
+Total Registrations: 1
+Banquets Attended: Gala Night 2023
+Meals Chosen: Roasted Chicken
+--------------------------------------------------
+Attendee ID: 3
+Name: Ethan Hunt
+Total Registrations: 1
+Banquets Attended: Annual Dinner
+Meals Chosen: Lobster Bisque
+--------------------------------------------------
+Attendee ID: 4
+Name: Fiona Gallagher
+Total Registrations: 1
+Banquets Attended: Spring Fest
+Meals Chosen: Falafel Wrap
+--------------------------------------------------
+Attendee ID: 5
+Name: George Martin
+Total Registrations: 1
+Banquets Attended: Annual Dinner
+Meals Chosen: Caesar Salad
+--------------------------------------------------
+
+Recommendations:
+- Identify highly engaged attendees for loyalty programs.
+- Analyze meal preferences to tailor future menus.
+--------------------------------------------------

@@ -1,0 +1,21 @@
+--------------------------------------------------
+                 Attendee Demographics Report
+--------------------------------------------------
+
+Attendee Types:
+- Student: 1 (20.00%)
+- Alumni: 1 (20.00%)
+- Guest: 2 (40.00%)
+- Staff: 1 (20.00%)
+
+Affiliated Organizations:
+- PolyU: 2 (40.00%)
+- HKCC: 1 (20.00%)
+- Others: 1 (20.00%)
+- SPEED: 1 (20.00%)
+--------------------------------------------------
+
+Recommendations:
+- Target underrepresented attendee types in future promotions.
+- Partner with affiliated organizations to increase engagement.
+--------------------------------------------------

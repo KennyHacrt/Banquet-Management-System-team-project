@@ -1,0 +1,26 @@
+--------------------------------------------------
+                 Popular Meals Report
+--------------------------------------------------
+Meal: Grilled Salmon
+Number of Selections: 1 (16.67%)
+--------------------------------------------------
+Meal: Roasted Chicken
+Number of Selections: 1 (16.67%)
+--------------------------------------------------
+Meal: Lobster Bisque
+Number of Selections: 1 (16.67%)
+--------------------------------------------------
+Meal: Falafel Wrap
+Number of Selections: 1 (16.67%)
+--------------------------------------------------
+Meal: Caesar Salad
+Number of Selections: 1 (16.67%)
+--------------------------------------------------
+Meal: Chicken Tacos
+Number of Selections: 1 (16.67%)
+--------------------------------------------------
+
+Recommendations:
+- Consider featuring the most popular meals in future banquets.
+- Analyze less popular meals to determine if they should be replaced or improved.
+--------------------------------------------------
