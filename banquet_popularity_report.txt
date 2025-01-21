@@ -1,0 +1,28 @@
+--------------------------------------------------
+                 Banquet Popularity Report
+--------------------------------------------------
+BIN: 1
+Name: Gala Night 2023
+Quota: 100
+Registered: 2 (2.00%) - Open
+--------------------------------------------------
+BIN: 2
+Name: Annual Dinner
+Quota: 150
+Registered: 2 (1.33%) - Open
+--------------------------------------------------
+BIN: 3
+Name: Spring Fest
+Quota: 200
+Registered: 2 (1.00%) - Open
+--------------------------------------------------
+BIN: 4
+Name: Spring Gala
+Quota: 100
+Registered: 0 (0.00%) - Open
+--------------------------------------------------
+
+Recommendations:
+- For banquets with high demand, consider increasing the quota.
+- Promote banquets with low registration to boost attendance.
+--------------------------------------------------
